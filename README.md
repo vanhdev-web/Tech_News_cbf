@@ -4,8 +4,7 @@ A recommendation system to suggest relevant articles using content-based filteri
 You can visit the website here: https://tech-news.streamlit.app/  
 
 
-![video gif](https://drive.google.com/uc?export=view&id=1HJC0Rtqulvn2hJdqdzer0Jkrp1M6Ydif)
-
+![Demo GIF](https://drive.google.com/uc?export=view&id=1HJC0Rtqulvn2hJdqdzer0Jkrp1M6Ydif)
 ## Table of Contents
 
 . [Dataset Overview](#dataset-overview)  
