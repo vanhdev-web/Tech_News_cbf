@@ -1,6 +1,38 @@
 # Tech_News_Content-based_Filtering
 
 A recommendation system to suggest relevant articles using content-based filtering. This application uses Streamlit to create an interactive user interface, pandas for data manipulation, and scikit-learn for calculating cosine similarity to recommend similar articles.
+You can visit the website here: https://tech-news.streamlit.app/  
+
+
+![video gif](https://drive.google.com/uc?export=view&id=1HJC0Rtqulvn2hJdqdzer0Jkrp1M6Ydif)
+
+## Table of Contents
+
+. [Dataset Overview](#dataset-overview)  
+. [Features and Functionality](#features-and-functionality)  
+. [Technology Stack](#technology-stack)  
+. [Prerequisites](#prerequisites)  
+. [Installation Instructions](#installation-instructions)  
+. [Usage Guide](#usage-guide)  
+. [Contributing Guidelines](#contributing-guidelines)  
+. [License Information](#license-information)
+
+## Dataset Overview
+* Dataset overview  
+![ảnh demo](https://drive.google.com/uc?export=view&id=1lZYIvsyDenC2Lugs2jzYjyzy_r2mz3Nh)
+
+
+* Samples   
+![ảnh demo](https://drive.google.com/uc?export=view&id=1BNeSTo03p3J5upoYYlTTyHUpbF3ml4By)
+
+
+* Variables  
+![ảnh demo](https://drive.google.com/uc?export=view&id=1-TMavcG6kOtGIfCc0hVqlWB0ZNEeCXe8)
+![ảnh demo](https://drive.google.com/uc?export=view&id=1UEOHRa9rSFogOQV8SIaldk0dCn1hZqS_)
+
+  
+  
+
 
 ## Features and Functionality
 
